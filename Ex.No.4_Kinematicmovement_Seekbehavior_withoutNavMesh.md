@@ -52,11 +52,8 @@ public class Script : MonoBehaviour
 }
 ```
 ### Output:
-![423383693-eaa695c2-16eb-4fbf-a4be-0a7fac41be1b](https://github.com/user-attachments/assets/58ff4268-0236-43f9-b579-2a4b8e56f8c8)
-![423383738-fd4fcb60-2da3-416e-946c-c43d366d42ae](https://github.com/user-attachments/assets/3f69a374-8010-488e-bbe9-bf170fa26f1b)
-![423383788-98453693-1187-40c0-ad84-a604332389fb](https://github.com/user-attachments/assets/b0fe61b3-d5aa-4b65-8ca7-e00a21c73abe)
-![Uploading 423383874-b13eabc2-5dd7-49d2-9a1e-f1501a9c54ac.png…]()
-
+![423367605-eb90b1d6-fd94-4528-9f79-4d25b36a6dc0](https://github.com/user-attachments/assets/a636c2e2-415d-46ce-bf96-5863760aff61)
+![423382413-33715666-e891-4948-b47a-58920a4cbd5e](https://github.com/user-attachments/assets/9317040e-c58e-4463-a38c-75c56bf53c46)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
