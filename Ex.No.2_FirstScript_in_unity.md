@@ -35,7 +35,7 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
-![Uploading 419408944-0c86e7cf-d03f-42bc-a47d-dd2633e4d4cc.png…]()
+![419408944-0c86e7cf-d03f-42bc-a47d-dd2633e4d4cc](https://github.com/user-attachments/assets/6cda24fd-5d99-4978-9672-e5bac533cc52)
 
 ### Result:
 Thus the welcome script was printed on Console Window  sucessfully.
